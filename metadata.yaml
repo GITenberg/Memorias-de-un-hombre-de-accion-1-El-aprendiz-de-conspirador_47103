@@ -1,4 +1,8 @@
 _repo: Memorias-de-un-hombre-de-accion-1-El-aprendiz-de-conspirador_47103
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47103-h/images/cover.jpg
 creator:
   author:
     agent_name: Baroja, Pío
@@ -13,6 +17,8 @@ creator:
     - http://es.wikipedia.org/wiki/Pío_Baroja
     - http://en.wikipedia.org/wiki/P%C3%ADo_Baroja
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47103#Memorias-de-un-hombre-de-accion-1-El-aprendiz-de-conspirador
 gutenberg_issued: '2014-10-13'
 gutenberg_type: Text
 identifiers:
